@@ -31,7 +31,6 @@
         .section {
             margin-bottom: 20px;
 	    text-align: center;
-		margin: 10px auto;
         }
         .section img {
             max-width: 100%;
@@ -41,7 +40,6 @@
         }
         .section h2 {
             color: #0056b3;
-	    
         }
         footer {
             text-align: center;
@@ -58,7 +56,6 @@
             <h1>16-Bit MAC Unit Design</h1>
             <p><strong>Technologies:</strong> Verilog, Cadence Tools (Genus, Innovus), Vedic Multipliers, CSA</p>
         </header>
-
         <section class="section">
             <h2>Overview</h2>
             <p>
@@ -68,7 +65,6 @@
                 minimized delay, area, and power consumption.
             </p>
             <img src="https://i.ibb.co/0fSfgxp/Multiply-Accumulate-MAC.webp" alt="Project Overview">
-
         </section>
 
         <section class="section">
