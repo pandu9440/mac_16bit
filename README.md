@@ -31,6 +31,7 @@
         .section {
             margin-bottom: 20px;
 	    text-align: center;
+		margin: 10px auto;
         }
         .section img {
             max-width: 100%;
