@@ -94,7 +94,7 @@
                     </ul>
                 </li>
             </ol>
-            <img src="C:\Users\admin\OneDrive\Desktop\git hub pages\DALL·E 2024-12-09 10.39.49 - A detailed technical illustration showing the design methodology of a 16-bit Multiply-Accumulate (MAC) unit. The image should include labeled blocks f.webp" alt="Design Methodology">
+            <img src="https://i.ibb.co/d7tpQ1k/design-methodology.webp" alt="Design Methodology">
         </section>
 
         <section class="section">
@@ -104,7 +104,7 @@
                 <li><strong>EDA Tools:</strong> Cadence Genus (Synthesis), Cadence Innovus (Physical Design)</li>
                 <li><strong>Mathematical Techniques:</strong> Vedic Multiplication, Carry Save Adder</li>
             </ul>
-            <img src="C:\Users\admin\OneDrive\Desktop\git hub pages\tools and technologies.webp" alt="Tools and Technologies">
+            <img src="https://i.ibb.co/tmnwPQw/tools-and-technologies.webp" alt="Tools and Technologies">
         </section>
 
         <section class="section">
@@ -117,7 +117,7 @@
                 <li>Efficient multiplication and accumulation for 16-bit inputs.</li>
                 <li>Final GDSII file generation with complete physical design.</li>
             </ul>
-            <img src="C:\Users\admin\OneDrive\Desktop\git hub pages\results obtained.webp" alt="Project Results">
+            <img src="https://i.ibb.co/tLrtFp7/results-obtained.webp" alt="Project Results">
         </section>
 
         <footer>
