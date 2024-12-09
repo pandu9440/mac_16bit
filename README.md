@@ -66,7 +66,7 @@
                 through Carry Save Adders (CSA). The implementation targets enhanced performance metrics such as 
                 minimized delay, area, and power consumption.
             </p>
-            <img src="C:\Users\admin\OneDrive\Desktop\git hub pages\Multiply-Accumulate (MAC).webp" alt="Project Overview">
+            <img src="https://drive.google.com/file/d/1Getoi6cFn3Lr1gYZjDtJ9hU4Gc5BiFz_/view?usp=sharing" alt="Project Overview">
 
         </section>
 
